@@ -144,8 +144,6 @@ is an application that is used to provide announcements on mobile applications /
             "id_file": 18,
             "filename": "reportingTest.pdf"
         }
-
-        }
     ]
 }
 ```
