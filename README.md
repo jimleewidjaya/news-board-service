@@ -139,7 +139,7 @@ is an application that is used to provide announcements on mobile applications /
         {
             "id_file": 17,
             "filename": "509922067.pdf",
-        }
+        },
         {
             "id_file": 18,
             "filename": "reportingTest.pdf"
